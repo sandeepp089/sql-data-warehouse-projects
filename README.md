@@ -34,6 +34,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 # 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-🌟 About Me
+#🌟 About Me
 Hi there! I'm Sandeep Nayak, also known as Cretor Techy. I'm an MCA student and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
 
